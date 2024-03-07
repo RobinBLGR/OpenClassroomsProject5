@@ -6,6 +6,15 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('./police/Spectral/Spectral-Regular.ttf') format('normal'),
+    font-weight: normal;
+    font-style: normal;
+} 
+
 .top-header {
 	background-color: white;
 	position: sticky;
@@ -68,8 +77,8 @@ body {
 }
 
 .picture img {
-	width: 100%;
-
+	max-width: 560px;
+	max-height: 560px;
 }
 #about-me {
 	flex: 2
@@ -315,6 +324,12 @@ input[type="submit"] {
 	#contact .picture.right {
 		margin-top: 1em;
 	}
+
+	.picture.right img {
+		max-width: 418px;
+		max-height: 418px;
+	}
+
 	.picture.right::before {
 		width: 100%;
 		height: 30%;
