@@ -13,6 +13,12 @@ body{
 	src:url(./police/Spectral/Spectral-Italic.ttf) format("truetype");
 	font-style:normal
 	}
+
+	@font-face{
+		font-family:'SpectralBold';
+		src:url(./police/Spectral/Spectral-BoldItalic.ttf) format("truetype");
+		font-style:bold
+		}
 	
 	@font-face{
 	font-family:'Inter';
@@ -99,8 +105,8 @@ body{
 	}
 	
 	.about-me__introduction{
-	font-family:'Spectral';
-	font-weight: bold;
+	font-family:'SpectralBold';
+	font-weight: 900;
 	width:60%
 	}
 	
