@@ -1,6 +1,6 @@
 /*!
   * Bootstrap v5.1.3 (https://getbootstrap.com/)
-  * Copyright 2012 - 2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 (function (global, factory) {
@@ -12,7 +12,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v5.1.3): util/index.js
-   * Licensed MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
   const MAX_UID = 1000000;

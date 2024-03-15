@@ -1,6 +1,6 @@
 body{
 	max-width:1920px;
-	margin:auto;
+	margin:auto
 	}
 	
 	*{
@@ -332,7 +332,7 @@ body{
 	width:100%;
 	max-width:100%;
 	height:auto;
-	margin:2em 0;
+	margin:2em 0
 	}
 	
 	.service__description{
@@ -417,6 +417,6 @@ body{
 	}
 	
 	.picture{
-	width:80%;
+	width:80%
 	}
 	}
