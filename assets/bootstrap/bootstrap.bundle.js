@@ -12,7 +12,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v5.1.3): util/index.js
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+   * Licensed MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
   const MAX_UID = 1000000;
