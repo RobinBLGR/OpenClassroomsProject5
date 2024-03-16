@@ -398,6 +398,10 @@ body{
 	max-height:466px;
 	width: 100%;
 	}
+
+	#gallery img{
+		width:340px
+		}
 	
 	#services .container{
 	align-items:center
